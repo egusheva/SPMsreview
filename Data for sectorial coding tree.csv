@@ -1,0 +1,11 @@
+﻿Level1;Level2
+Energy supply;
+Energy demand;Buildings
+Energy demand;Transport
+Energy demand;Industry
+Energy demand;Undefined
+Land-use;Agriculture
+Land-use;Forestry
+Land-use;Undefined
+Waste;
+Undefined;
