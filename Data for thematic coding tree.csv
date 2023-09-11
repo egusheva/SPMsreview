@@ -1,9 +1,9 @@
 ﻿Level1;Level2;Level3;Level4
-Drivers;Emissions;;
-Drivers;Mitigation;;
-Effects;Co-benefits;;
-Effects;Side effects;;
-Effects;Undefined;;
+Problems;Emissions drivers;;
+Solutions;Mitigation drivers;;
+Solutions;Effects;Co-benefits;
+Solutions;Effects;Side effects;
+Solutions;Effects;Undefined;
 Problems;Barriers to mitigation;;
 Problems;Burden sharing;;
 Problems;Emissions projections;;
